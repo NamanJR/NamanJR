@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NamanJR
+- 👋 Hi, I’m Naman Verma
 - 👀 I’m interested in Data Analytics 
 - 🌱 I’m skilled in Excel, Power BI, Tableau and SQL
 - 🎓 I have done Bachelor of Technology 
