@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NamanJR
-- 👀 I’m interested in Python/Django Development 
-- 🌱 I’m currently learning Rest API
+- 👀 I’m interested in Data Analytics 
+- 🌱 I’m skilled in Excel, Power BI, Tableau and SQL
 - 🎓 I have done Bachelor of Technology 
 - 📫 I can be reached at namanverma002@gmail.com
 
